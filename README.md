@@ -1,8 +1,6 @@
-# HTML_CSS_SAS_JavaScript_Udemy_course
+# I highlighted important points from the course, in my opinion.
 This is course about HTML, CSS, SAS, JAVASCRIPT from Udemy website.
 Link: https://www.udemy.com/course/build-websites-html-css-sass-javascript/
-
-I highlighted important points from the course, in my opinion.
 
 Important Notes:
 If you wanna change width and height not for only content but for entire box then you should use "box-sizing: border-box". Other box-sizing parameters: "content-box" is for content, "padding-box" is for content+padding, "border-box" is for content+padding+border.
