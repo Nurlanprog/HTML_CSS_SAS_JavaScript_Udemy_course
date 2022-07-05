@@ -22,4 +22,4 @@ If browser doesnt support font-family then just specify second one like this: fo
 
 To make background image fit element fully not stripped down: background-size: cover.
 
-Remove underline from links: text-decoration:none. For uppercase or lowercase use: text-transform.
+If you want to set to child element absolute positioning then you should always set to parent element relative positioning. If you want to child element don't move when scrolling you should use fixed positioning. Absolute is relative to parent, fixed is relative to window.
