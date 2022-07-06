@@ -25,6 +25,7 @@ To make background image fit element fully not stripped down: `background-size: 
 If you want to set to child element absolute positioning then you should always set to parent element relative positioning. If you want to child element don't move when scrolling you should use fixed positioning. *Absolute is relative to parent, fixed is relative to window*.
 
 **Section 4: Basics of Web Design**
+
 Fonts and icons:
 - Use font size between 15 and 25 pixels for body text
 - Font size for headlines - between 32 to 60 pixels
