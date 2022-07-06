@@ -22,4 +22,4 @@ If browser doesnt support font-family then just specify second one like this: `f
 
 To make background image fit element fully not stripped down: `background-size: cover`.
 
-If you want to set to child element absolute positioning then you should always set to parent element relative positioning. If you want to child element don't move when scrolling you should use fixed positioning. > Absolute is relative to parent, fixed is relative to window.
+If you want to set to child element absolute positioning then you should always set to parent element relative positioning. If you want to child element don't move when scrolling you should use fixed positioning. *Absolute is relative to parent, fixed is relative to window*.
