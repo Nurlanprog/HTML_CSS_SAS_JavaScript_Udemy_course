@@ -3,7 +3,7 @@ This is course about HTML, CSS, SAS, JAVASCRIPT from Udemy website.
 Link: https://www.udemy.com/course/build-websites-html-css-sass-javascript/
 
 Important Notes:
-If you wanna change width and height not for only content but for entire box then you should use "box-sizing: border-box". Other box-sizing parameters: "content-box" is for content, "padding-box" is for content+padding, "border-box" is for content+padding+border.
+If you wanna change width and height not for only content but for entire box then you should use "box-sizing: border-box". Other box-sizing parameters: "content-box" is for content, `padding-box` is for content+padding, "border-box" is for content+padding+border.
 
 By default div's and other some elements are blocks. So if you wanna make in example 2 div's inline-block you should specify them both inline-box. Inline element cannot have width and height. In inline-box you should specify width and height.
 
