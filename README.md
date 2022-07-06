@@ -23,3 +23,17 @@ If browser doesnt support font-family then just specify second one like this: `f
 To make background image fit element fully not stripped down: `background-size: cover`.
 
 If you want to set to child element absolute positioning then you should always set to parent element relative positioning. If you want to child element don't move when scrolling you should use fixed positioning. *Absolute is relative to parent, fixed is relative to window*.
+
+**Section 4: Basics of Web Design**
+Fonts and icons:
+- Use font size between 15 and 25 pixels for body text
+- Font size for headlines - between 32 to 60 pixels
+- Reduce font weigh of headlines that are too large. That ensures that the text doesn't steal too much of attention from the rest of the content
+- Use line spacing between 120 to 150% of the font size in the body. Decrease line spacing of the large text. So larger line height for smaller text, smaller line height for larger text.
+- Traditional font - Serif font. More modern font - Sans Serif font. 
+- Use icons to give a more pictorial representation of features or steps
+- Try to use icons that are as descriptive as possible
+- Try to incorporate icons into call to action buttons and links
+- Websites for icons: icomoon, font awesome, flaticon, freepik
+Colors:
+![image](https://user-images.githubusercontent.com/74294560/177476848-24504f5b-b0ac-4412-a897-52f077e1d228.png)
