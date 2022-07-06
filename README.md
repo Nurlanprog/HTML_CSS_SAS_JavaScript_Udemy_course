@@ -45,4 +45,5 @@ Colors:
 - Choose accent color. It used to attract attention toward something you want to highlight, like a CTA(call-to-action) button. Use colors that are bolder than you primary colors. It's best if you use a color that contrasts the primary color. Apply these colors to elements like navigation menu, CTAs and other crusial items.
 - Use the 60-30-10 rule. This rule helps to have well-balanced webpage. 60% - primary color, 30% - secondary color, 10% - accent color. 60% - negative space, 30% - content, 10% - action elements. 
 - Websites for color palette: colorpalette.org, icolorpalette.com, sessions.edu/color-calculator
+
 ![image](https://user-images.githubusercontent.com/74294560/177480894-6a394886-c70e-4d9e-a848-280abf395e56.png)
