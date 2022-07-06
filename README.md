@@ -35,5 +35,6 @@ Fonts and icons:
 - Try to use icons that are as descriptive as possible
 - Try to incorporate icons into call to action buttons and links
 - Websites for icons: icomoon, font awesome, flaticon, freepik
+
 Colors:
 ![image](https://user-images.githubusercontent.com/74294560/177476848-24504f5b-b0ac-4412-a897-52f077e1d228.png)
