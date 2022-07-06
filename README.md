@@ -49,3 +49,30 @@ Colors:
 - Most important rule: keep it simple
 
 ![image](https://user-images.githubusercontent.com/74294560/177480894-6a394886-c70e-4d9e-a848-280abf395e56.png)
+
+Images:
+- Make sure your images are relevant
+- Try to overlay image, when putting text over an image
+- You can also try blurring the image, darkening it, or overlaying it with color gradients of your website theme or color scheme
+- Another technique is putting the text in a box and making the background color translucent![image](https://user-images.githubusercontent.com/74294560/177482336-4bb1f526-4bfe-4b6a-ad2e-b6ef1213fec9.png)
+
+- Websites for downloading images: pexels, pixabay, unsplash, stocksnap
+- Websites for design templates: free-css.com, htmlinspiration.com, cssdesignawards.com, freefrontend.com
+
+**Approach to design a website:**
+- Define the goal and the audience
+- Get user requirements
+- Make a wireframe or a Rough Sketch of the Layout
+- Start the coding
+- Optimize the code for different platforms
+- Upload the code
+
+**Requirements from the client**
+- The company logo
+- The content
+- The images
+- Navigation menu
+- Branding colors
+- CTAs
+- Type of website
+- Static or dynamic?
